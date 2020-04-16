@@ -21,7 +21,7 @@ Aşağıdaki yönerge adımlarını lütfen uygulayın.
 | 28    | 21/60    |   0.49   |
 | 33    | 26/60    |   0.55   |
 | 38    | 31/60    |   0.61   | 
-| 45    | 38/60    |   0.65   |
+| 43    | 36/60    |   0.64   |
 | 48    | 41/60    |   0.67   |
 | 53    | 46/60    |   0.675  |
 
@@ -33,11 +33,11 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1bW_ZopZ5CgGzbq1l0X2DgTZOOihKH-HLPVuN1tVDhZY/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **-1.22*t^2 + 1.80*t + 4.15E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? **Bilindiği üzere 2. dereceden denklemlerin grafikleri parabol oluşturur. Parabollarda a katsayısı parabol kollarının nasıl olacağını belirler. Negatif olması durumunda kollar aşağıya doğrudur. Bizim yaptığımız deneyde de tepe noktası üst kısımda ve kollar aşağıya doğru olduğu için negatiftir. A değeri bence yer değiştirmenin pozitif yönlü olduğunu belirtiyor. C değeri ise parabollerde parabolün y ekseninini kestiği noktayı verir (0,c). Bu yüzden deneyimizde sıfıra çok yakındır.**   Sizce niçin a'nın değeri negatif? **Parabollarda a katsayısı parabol kollarının nasıl olacağını belirler. Negatif olması durumunda kollar aşağıya doğrudur. Bizim yaptığımız deneyde de tepe noktası üst kısımda ve kollar aşağıya doğru olduğu için negatiftir. A değeri bence yer değiştirmenin pozitif yönlü olduğunu belirtiyor.** 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **Tepe noktası, x eksenini kestiği yerler değişeceği için a ve b terimleri değişirdi. Benim fikrimce c teriminde çok büyük bir değişim olmayacağıdır.** 
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
 Bu sefer aynı cismin zaman-hız (ortalama hız) grafiğini çizeceksiniz. Bunun için *1.Bölümde* aldığımız sonuçları kullanacağız. Ortalama hızı bulmak için derste öğrendiğimiz ortalama hız formülünü (Delta x/ Delta t) kullanacağız. Google Sheet kullanarak hız-zaman grafiği nasıl çizildiğini anlamak için  [bu videoya](https://www.youtube.com/watch?v=67IsHRmcmfE&t) bakınız. Ortalama hız-zaman grafiğini çizilirken, ortalama hıza karşılık gelen zamanı nasıl belirleyeceksin? Bir andaki  ortalama hızı hesaplarken o noktadan önceki ve o noktadan sonraki (t,x) noktalarını kullanacaksın. Bu yüzden konum grafiğimde 11 veri noktam varken, hız-zaman grafiğinde veri noktam 9'a düştü. (İlk baştaki ve son baştaki noktalar için ortalama hızı hesaplayamam çünkü başlangıç noktasından önce ve bitiş noktasından sonraki (t,x) bilgilerine sahip değilim.)
