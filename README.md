@@ -36,7 +36,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1bW_ZopZ5CgGzbq1l0X2DgTZOOihKH-HLPVuN1tVDhZY/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 a) Denkleminizi **-1.22*t^2 + 1.80*t + 4.15E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? **Bilindiği üzere 2. dereceden denklemlerin grafikleri parabol oluşturur. Parabollarda a katsayısı parabol kollarının nasıl olacağını belirler. Negatif olması durumunda kollar aşağıya doğrudur. Bizim yaptığımız deneyde de tepe noktası üst kısımda ve kollar aşağıya doğru olduğu için negatiftir. A değeri bence yer değiştirmenin pozitif yönlü olduğunu belirtiyor. C değeri ise parabollerde parabolün y ekseninini kestiği noktayı verir (0,c). Bu yüzden deneyimizde sıfıra çok yakındır.**   Sizce niçin a'nın değeri negatif? **Parabollarda a katsayısı parabol kollarının nasıl olacağını belirler. Negatif olması durumunda kollar aşağıya doğrudur. Bizim yaptığımız deneyde de tepe noktası üst kısımda ve kollar aşağıya doğru olduğu için negatiftir. A değeri bence yer değiştirmenin pozitif yönlü olduğunu belirtiyor.** 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **Hayır**
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **Tepe noktası, x eksenini kestiği yerler değişeceği için a ve b terimleri değişirdi. Benim fikrimce c teriminde çok büyük bir değişim olmayacağıdır.** 
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
@@ -50,14 +50,14 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz. **1. kısımda bulunmaktadadır.**
 
-3) İvme'yi ne buldunuz?**2.84x+-3.87** Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+3) İvme'yi ne buldunuz?**Hız-Zaman grafiğinin eğimi bize ivmeyi verir, -2.45.** Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
-Yardım:
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2, burdan cismin ilk hızını bulunuz. 
-* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
+Yardım: **.**
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2, burdan cismin ilk hızını bulunuz. **Aldığı yol 0.675m'dir. Son hızı ise sıfırdır. Buna göre ilk hızı 1.65m/s çıkar. **
+* Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz. **½m.v²'den, 1. 1.65².½=1.36125 kinetik enerjiyi buluruz. Kinetik enerjideki değişim işteki değişime eşittir. W=F.x olduğu için 1.36125=F.0.675 çıkar. F=**
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Hayır, bulunumazdı. **
