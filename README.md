@@ -60,6 +60,6 @@ Yardım: **Uygulanan kuvveti bilseydik rahatça bulabilirdik**
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2, burdan cismin ilk hızını bulunuz. **Aldığı yol 0.675m'dir. Son hızı ise sıfırdır. Buna göre ilk hızı 1.65m/s çıkar.**
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz. **½m.v²'den, 1. 1.65².½=1.36125 kinetik enerjiyi buluruz. Kinetik enerjideki değişim işteki değişime eşittir. W=F.x olduğu için 1.36125=F.0.675 çıkar. F=2.01. Bu hesaplamalardan kinetik sürtünme kat sayısını 0.262 buldum. Hareketin sabit ivmeli olmamasından dolayı yukarıda bulduğum sonuçtan farklı olduğunu düşünüyorum.**
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Hayır, bulunumazdı. **
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **Hayır, bulunumazdı.**
 
 
